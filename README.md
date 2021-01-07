@@ -10,6 +10,7 @@ Nếu không phải địch thì tính tổng phần thưởng mong đợi.
  Câu 4: 
 
  Lấy trạng thái của hành động bằng getLegalActions(), khởi tạo bằng 0 hoặc trả về giá trị tối đa của trạng thái q-value.
+ 
  Câu 5: 
  Với việc chọn ngẫu nhiên một action epsilon chỉ khi đánh giá được self.epsilon còn không sẽ trả về giá trị hành động của hàm computeActionFromQValues
  Câu 6:
