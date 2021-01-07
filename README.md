@@ -13,5 +13,6 @@ Nếu không phải địch thì tính tổng phần thưởng mong đợi.
  
  Câu 5: 
  Với việc chọn ngẫu nhiên một action epsilon chỉ khi đánh giá được self.epsilon còn không sẽ trả về giá trị hành động của hàm computeActionFromQValues
+ 
  Câu 6:
  Ta chọn các giá trị : answerEpsilon = 0.1 answerLearningRate = 0.8 Vì không thể tìm được con đường tối ưu đến 99%, 50 tập là quá nhỏ nên cần thêm để tìm kiếm
